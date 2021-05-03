@@ -4,6 +4,7 @@ const Home = () => {
     return (
         <div>
            <h1>THis is home</h1> 
+           <h1>Hiiiiiiiiii</h1>
         </div>
     );
 };
